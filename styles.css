@@ -8,16 +8,12 @@
 
 .videoClass{
     position: relative;
-  object-fit: cover;
     height: 100vh;
-
     z-index: 0; 
 }
 video {
     object-fit: cover;
     position: relative;
-  height: 100vh;
-
     z-index: 0;
   }
 #countdown {
